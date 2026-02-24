@@ -3,7 +3,7 @@ echo "Starting user automation"
 echo "Enter username:"
 read username
 
-sudo useradd $username
+sudo  $username
 
 echo "User $username created successfully."
 echo "Automation completed."
