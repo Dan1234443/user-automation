@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Starting user automation"
 echo "Enter username:"
 read username
 
